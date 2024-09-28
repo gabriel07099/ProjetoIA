@@ -4,4 +4,5 @@ Projeto da matéria de Inteligência Artificial da turma 7N na UPM (Universidade
 
 ## Alunos 
 Gabriel Santos de Oliveira Arruda - 10388025
+
 Paulo Henrique Souza Camargo - 10389453
